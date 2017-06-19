@@ -1,0 +1,25 @@
+body {
+background-color: darkgray;
+}
+.container-style {
+  background-color: lightgray;
+}
+h1, h2 {
+font-family: Orbitron, sans-serif;
+color: Red;
+}
+h3 {
+font-family: Orbitron, sans-serif;
+color: Black;
+}
+p {
+font-size: 12px;
+}
+.text {
+  text-align: left;
+}
+@media(max-width: 768px) {
+  .text {
+    text-align: center;
+  }
+}
