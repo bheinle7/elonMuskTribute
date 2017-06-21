@@ -1,8 +1,8 @@
 body {
-background-color: darkgray;
+background-color: lightgray;
 }
 .container-style {
-  background-color: lightgray;
+  background-color: darkgray;
 }
 h1, h2 {
 font-family: Orbitron, sans-serif;
